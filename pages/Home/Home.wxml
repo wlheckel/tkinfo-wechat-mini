@@ -4,4 +4,4 @@
 <view>{{counter}}</view>
 <button bindtap="addClick">+</button>
 
-<!-- tag 1 -->
+<!-- tag 2 -->
