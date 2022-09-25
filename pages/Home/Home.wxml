@@ -3,3 +3,5 @@
 <view wx:for="{{students}}" wx:for-index="{{idx}}">name: {{item.name}} - age: {{item.age}}</view>
 <view>{{counter}}</view>
 <button bindtap="addClick">+</button>
+
+<!-- tag 1 -->
